@@ -7,4 +7,4 @@ layout: default
 
 
 ##### Projects rationale, usability tests and accessibility audit are hosted on github pages:
-* https://hluce1.github.io/Front-end-Website-Project/
+* <a href "https://hluce1.github.io/Front-end-Website-Project/" </a>
