@@ -1,3 +1,12 @@
+---
+layout: default
+---
+
+## Modules
+- Module 1: [audit](audit/)
+- Module 2: [rationale](rationale/)
+- Module 3: [Accessibility and Usability](module-3/)
+
 # About / Synopsis
 
 * What is it, what does it do / Abstract
@@ -24,7 +33,4 @@ Sample:
 
 [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/addons_nuxeo-sample-project-master/)
 
-## Modules
-- Module 1: [audit](audit/)
-- Module 2: [rationale](rationale/)
-- Module 3: [Accessibility and Usability](module-3/)
+
