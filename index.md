@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 ## Modules
 - Module 1: [audit](audit/)
