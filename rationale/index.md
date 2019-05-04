@@ -1,7 +1,4 @@
-#rationale test1
+## Navigation 
+|| [Accessability Audit](https://hluce1.github.io/week4/audit/) || [Rationale and usability tests](https://hluce1.github.io/week4/rationale/) || [Github Pages Home](https://hluce1.github.io/week4/)
 
-
-## Pages
-- Accessability Audit: [audit](../audit)
-- Rationale and usability tests: [rationale](test)
-- Github Pages Home: [Home](https://hluce1.github.io/week4/)
+im the /rationale/index.md page
