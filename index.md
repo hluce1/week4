@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## Modules
-- Module 1: [audit](audit/)
-- Module 2: [rationale](rationale/)
-- Module 3: [Accessibility and Usability](module-3/)
+- Accessability Audit: [audit](audit/)
+- Rationale and usability tests: [rationale](rationale/)
+- Home:[index](index.md)
 
 # About / Synopsis
 
