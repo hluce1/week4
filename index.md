@@ -1,7 +1,7 @@
 ## Pages
-- Accessability Audit: [audit](audit.md/)
-- Rationale and usability tests: [rationale](rationale.md/)
-- Github Pages Home: [Home](index.md)
+- Accessability Audit: [audit](audit/)
+- Rationale and usability tests: [rationale](rationale/)
+- Github Pages Home: [Home](index)
 
 # About / Synopsis
 
