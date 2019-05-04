@@ -1,11 +1,7 @@
----
-layout: default
----
-
-## Modules
+## Pages
 - Accessability Audit: [audit](audit/)
 - Rationale and usability tests: [rationale](rationale/)
-- Home:[index](index.md)
+- Github Pages Home: [Home](index.md)
 
 # About / Synopsis
 
