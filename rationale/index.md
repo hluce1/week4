@@ -13,5 +13,6 @@ layout: default
 ### [2] 1.3.1 Info and Relationships - Logical structure
 
 ![Branching](https://github.com/hluce1/Front-end-Website-Project/blob/master/audit/a_images/9.png)
+<br>
 
-|| test
+*   This is an unordered list following a header.
