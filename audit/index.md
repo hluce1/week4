@@ -24,3 +24,4 @@ layout: default
 <b>Passed</b>
 <br>
   
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
