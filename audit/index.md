@@ -27,6 +27,7 @@ layout: default
 ## Perceivable 
 <br>
 ### [1] 1.1.1 Non-text Content - Provide text alternatives for non-text content
+
 ![Branching](https://github.com/hluce1/week4/blob/master/audit/images/1.png)
 
 
