@@ -26,3 +26,7 @@ layout: default
   
   ## test 
 ![Branching](https://github.com/hluce1/week4/blob/master/audit/images/1.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
