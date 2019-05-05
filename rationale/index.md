@@ -12,5 +12,5 @@ layout: default
 
 ### [2] 1.3.1 Info and Relationships - Logical structure
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://github.com/hluce1/Front-end-Website-Project/blob/master/audit/a_images/9.png)
 
