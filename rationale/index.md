@@ -2,12 +2,14 @@
 layout: default
 ---
 
+## Perceivable
 
-## Navigation 
-[Accessability Audit](https://hluce1.github.io/week4/audit/) || [Rationale and usability tests](https://hluce1.github.io/week4/rationale/) || [Github Pages Home](https://hluce1.github.io/week4/)
-
-im the /rationale/index.md page
-
-### Large image
+### [1] 1.1.1 Non-text Content - Provide text alternatives for non-text content
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<br>
+
+### [2] 1.3.1 Info and Relationships - Logical structure
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
