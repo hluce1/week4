@@ -24,9 +24,9 @@ layout: default
 <b>Passed</b>
 <br>
   
-  ## test 
+## Perceivable 
+<br>
+### [1] 1.1.1 Non-text Content - Provide text alternatives for non-text content
 ![Branching](https://github.com/hluce1/week4/blob/master/audit/images/1.png)
 
-### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
