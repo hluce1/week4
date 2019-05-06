@@ -31,3 +31,24 @@ layout: default
 ![Branching](https://github.com/hluce1/week4/blob/master/audit/images/1.png)
 
 
+Good afternoon Mark, 
+
+Hope you enjoyed your leave?
+
+I’m just informing you that the project work finishes up this week. 
+
+We are happy to start handover arrangements of our materials, we have a public repository of the project work and code.
+
+We can send that through to you and there is also a video attached to this email (zip file, 21MB), demoing the app.
+
+The demo shows how users will download the app on their device which can then access the document online and offline. 
+
+If you have something else in mind for handover, or would like more detail about the app, please let us know.
+
+There is also a sponsor sign off sheet attached, we’d appreciate if you could fill that in and sign off at your earliest convenience.
+
+Thanks and kind regards,
+Harry Lucey 
+
+
+
