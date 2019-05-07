@@ -35,6 +35,6 @@ Sample:
 [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/addons_nuxeo-sample-project-master/)
 
 
-Druing the planning phases, the first wireframe[[1](https://user-images.githubusercontent.com/47615809/57193719-c8b0b900-6f81-11e9-9fb4-82ec09d8e50b.png)] was used to 
+Druing the planning phases, the first wireframe [[1](https://user-images.githubusercontent.com/47615809/57193719-c8b0b900-6f81-11e9-9fb4-82ec09d8e50b.png)] was used to 
 
 
