@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Navigation Wireframes
+## Navigation Wireframes [Image 2] [Image 1] 
 [Accessability Audit](https://hluce1.github.io/week4/audit/) || [Rationale and usability tests](https://hluce1.github.io/week4/rationale/) || [Github Pages Home](https://hluce1.github.io/week4/)
 
 ### Projects rationale, usability tests and accessibility audit are hosted on github pages: [Image 1] [Image 2]
 [Github pages](https://hluce1.github.io/Front-end-Website-Project/).
 
-# About / Synopsis
+# About / Synopsis Wireframes 
 
 * What is it, what does it do / Abstract
 * Project status: working/prototype
