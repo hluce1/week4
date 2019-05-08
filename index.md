@@ -85,6 +85,12 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 <h5> [Image 6] Colour Palette </h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297593-4eb03980-7113-11e9-822d-9221f65f5d6d.jpg)
 
+<h2> Challenges </h2>
+
+<p> Main challanges: </p>
+
+* Accessibility:
+- -	The main accessibility issue came from having a back to top button. This made the visual presentation of the content not match the order of the code. The fix was just to remove it all together as users aren’t scrolling on this site for long. 
 
 
 
