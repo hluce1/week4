@@ -47,11 +47,11 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 <p align="justify">The last approach was to refine all usability and accessibility errors and implement fixes when they were needed. This was because the rounds of usability testing and accessibility testing showed where the site would need certain tweaks or changes. The usability testing was carried out through cognitive walkthroughs, to determine what tasks users would follow in order to use the site. While the accessibility tests came from the WCAG checklist and the final audit.</p>
 
-![Branching](https://user-images.githubusercontent.com/47615809/57344769-e2bde780-718b-11e9-9188-e54f22607d24.png)
+![Branching](https://user-images.githubusercontent.com/47615809/57345253-7cd25f80-718d-11e9-8560-c1b9ed94d48d.png)
 
 <h2>Designs that inspired me:</h2>
 
-<h5> [Image 3]  [Image 1] Wireframe [Image 2] Wireframe</h5>
+<h5> [Image 3] </h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297608-5c65bf00-7113-11e9-991d-869dab96a966.jpg)
 
 <h5> [Image 4] </h5>
