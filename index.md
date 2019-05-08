@@ -116,6 +116,9 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 ## Robust
 
 ![Branching](https://user-images.githubusercontent.com/47615809/57357768-0cd8cf00-71b7-11e9-8dc6-8123e9ac29bc.png)
+<br>
+
+*   Please note, if the images fail to load, a word document is available for download here:  [Audit](https://github.com/hluce1/Front-end-Website-Project/blob/master/audit/accessibility_audit.docx)
 
 <h5> Other: </h5>
 *   As discussed with Ben, guideline 1.4.2 wasn't necessary.
