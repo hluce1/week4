@@ -51,7 +51,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 <h2>Designs that inspired me:</h2>
 
-<h5> [Image 3] </h5>
+<h5> [Image 3] [Image 1] [Image 2] </h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297608-5c65bf00-7113-11e9-991d-869dab96a966.jpg)
 
 <h5> [Image 4] </h5>
@@ -123,4 +123,4 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 *   A complete audit for the target audience can be found here  [(external link)](https://hluce1.github.io/Front-end-Website-Project/audit/)
  
  <hr>
-[Home](https://hluce1.github.io/Front-end-Website-Project/) || [Rationale](https://hluce1.github.io/Front-end-Website-Project/rationale/)
+[Home](https://hluce1.github.io/Front-end-Website-Project/) | [Rationale](https://hluce1.github.io/Front-end-Website-Project/rationale/)
