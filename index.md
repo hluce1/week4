@@ -94,7 +94,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
   
 * Usability:
   - The inconsistency of the site needed to be fixed. Having a green submit button, and other colours in the form didn’t match with the rest of the site. WCAG also recommends having fully red labels for required form fields, but ultimately I decided against that, and just have it for the asterisks.
-  - -	Content at different resolutions for mobile and screen above 2K, could become hard to read. So the font sizes needed to be changed for mobiles and all content for 2K and above resolutions have a CSS zoom property applied to help scale the content. 
+  - Content at different resolutions for mobile and screen above 2K, could become hard to read. So the font sizes needed to be changed for mobiles and all content for 2K and above resolutions have a CSS zoom property applied to help scale the content. 
   
 * Both:
   - Using the correct from elements and attributes for screen readers, there needed to be a logical flow to the order or the content read to users. A lot of time was spent making the form read logically for all user types and represented in a visual way that was accessible. The main fixes where label names and making red asterisks.   
