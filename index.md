@@ -90,7 +90,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 <p> Main challanges: </p>
 
 * Accessibility:
-- The main accessibility issue came from having a back to top button. This made the visual presentation of the content not match the order of the code. The fix was just to remove it all together as users aren’t scrolling on this site for long. 
+  - The main accessibility issue came from having a back to top button. This made the visual presentation of the content not match the order of the code. The fix was just to remove it all together as users aren’t scrolling on this site for long. 
 
 
 
