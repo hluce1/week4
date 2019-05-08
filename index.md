@@ -99,6 +99,10 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 * Both:
   - Using the correct from elements and attributes for screen readers, there needs to be a logical flow to the order of the content read to users. A lot of time was spent making the form read logically for all user types and represented in a visual way that was accessible. The main fixes where label names and making red asterisks.   
 
+# Accessibility Audit
 
+## Perceivable
+
+![Branching](https://user-images.githubusercontent.com/47615809/57357601-a358c080-71b6-11e9-8a7e-9d3a51c7649e.png)
 
 
