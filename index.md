@@ -105,4 +105,19 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 ![Branching](https://user-images.githubusercontent.com/47615809/57357601-a358c080-71b6-11e9-8a7e-9d3a51c7649e.png)
 
+## Operable
+
+![Branching](https://user-images.githubusercontent.com/47615809/57357613-abb0fb80-71b6-11e9-8bdf-8f4b5a7cbf3d.png)
+
+## Understandable
+
+![Branching](https://user-images.githubusercontent.com/47615809/57357628-b4093680-71b6-11e9-8a62-bd70ee0e0a13.png)
+
+## Robust
+
+![Branching](https://user-images.githubusercontent.com/47615809/57357768-0cd8cf00-71b7-11e9-8dc6-8123e9ac29bc.png)
+
+<h5> Other: </h5>
+*   As discussed with Ben, guideline 1.4.2 wasn't necessary.
+*   A complete audit for the target audience can be found here [(external link)](https://hluce1.github.io/Front-end-Website-Project/audit/)
 
