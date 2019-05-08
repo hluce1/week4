@@ -75,6 +75,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 *	Changes to the parallax images design were to stop the effect once users get to tablet and below resolutions to not cause usability issues. 
 
 *	The Toolplate template (image 4) gave me the idea to break up the introductory paragraphs and show the Tocumwal stories. 
+
 *	The font and colours were carried from the previous assessment.
 
 *	I tried out using different colours, mainly blue, in order to meet more accessibility standards. However, after discussing with Ben, that specific guideline wasn’t necessary for this assessment. 
