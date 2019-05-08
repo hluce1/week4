@@ -63,7 +63,8 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 <h2> Design Decisions </h2>
 
 <p align="justify">The site took inspiration from the above website designs and lead to the following design decisions: 
-* This led to the main responsive content to be the Tocumwal stories section and the contact form. Using flex boxes and containers to create these sections. 
+  
+* Making the main responsive content the Tocumwal stories section and the contact form. Using flex boxes and containers to create these sections. 
   
 * Inspiration from Colorlibs (image 3) navigation bar. However opting not to use the hamburger menu. 
 
