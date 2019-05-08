@@ -39,7 +39,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 //////////////////////////// tests 
 
-<h2>Assignment approach:</h2>
+<h2>Assignment Approach:</h2>
 
 <p align="justify">In the beginning phases of this assessment the focus was centered on how to incorporate the main content from the Tocumwal archive into this final site in an accessible and fully responsive way. Utilising the previous assignment I expected to use a lot of the same written content and then to continue designing the site for this assessment. This went as planned however, a lot of the content from the previous assessment was cut as it was unnecessary, both in terms of design and usability. </p>
 
@@ -59,6 +59,19 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 <h5> [Image 5] </h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297622-62f43680-7113-11e9-98f3-c9d13b7a6eb9.jpg)
+
+<h2> Design Decisions </h2>
+
+<p>The site took inspiration from the above website designs:</p>
+* This led to the main responsive content to be the Tocumwal stories section and the contact form. Using flex boxes and containers to create these sections. 
+* Inspiration from Colorlibs (image 3) navigation bar. However opting not to use the hamburger menu. 
+*	Utilising flex boxes for when the content would need to be at smaller resolutions. Some trouble with this did occur when more than two flex boxes were added to the one container, so I just created two containers instead. 
+*	Using CSS and HTML only parallax images.
+*	Changes to the parallax images design were to stop the effect once users get to tablet and below resolutions to not cause usability issues. 
+*	The Toolplate template (image 4) gave me the idea to break up the introductory paragraphs and show the Tocumwal stories. 
+*	The font and colours were carried from the previous assessment.
+*	I tried out using different colours, mainly blue, in order to meet more accessibility standards. However, after discussing with Ben, that specific guideline wasn’t necessary for this assessment. 
+*	I also started utilising a different colour scheme instead of just white for the bottom content, taking inspiration from Icognitothemes (image 5) template. 
 
 
 
