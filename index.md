@@ -91,6 +91,13 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 * Accessibility:
   - The main accessibility issue came from having a back to top button. This made the visual presentation of the content not match the order of the code. The fix was just to remove it all together as users aren’t scrolling on this site for long. 
+  
+* Usability:
+  - The inconsistency of the site needed to be fixed. Having a green submit button, and other colours in the form didn’t match with the rest of the site. WCAG also recommends having fully red labels for required form fields, but ultimately I decided against that, and just have it for the asterisks.
+  - -	Content at different resolutions for mobile and screen above 2K, could become hard to read. So the font sizes needed to be changed for mobiles and all content for 2K and above resolutions have a CSS zoom property applied to help scale the content. 
+  
+* Both:
+  - Using the correct from elements and attributes for screen readers, there needed to be a logical flow to the order or the content read to users. A lot of time was spent making the form read logically for all user types and represented in a visual way that was accessible. The main fixes where label names and making red asterisks.   
 
 
 
