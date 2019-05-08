@@ -37,4 +37,16 @@ Sample:
 
 Druing the planning phases, the first [wireframe](https://user-images.githubusercontent.com/47615809/57193719-c8b0b900-6f81-11e9-9fb4-82ec09d8e50b.png) was used to 
 
+//////////////////////////// tests 
+
+<h2>Assignment approach:</h2>
+
+<p align="justify">In the beginning phases of this assessment the focus was centered on how to incorporate the main content from the Tocumwal archive into this final site in an accessible and fully responsive way. Utilising the previous assignment I expected to use a lot of the same written content and then to continue designing the site for this assessment. This went as planned however, a lot of the content from the previous assessment was cut as it was unnecessary, both in terms of design and usability </p>
+
+<p align="justify">IOverall for the final assessment, the first wireframe sketch was made to reflect how the current content could be built upon further for a more responsive design. While the second wireframe was used after all the content needed was planned. This wireframe became the final building block referred to when making this site.</p>
+
+<p align="justify">The last approach was to refine all usability and accessibility errors and implement fixes when they were needed. This was because the rounds of usability testing and accessibility testing showed where the site would need certain tweaks or changes. The usability testing was carried out through cognitive walkthroughs, to determine what tasks users would follow in order to use the site. While the accessibility tests came from the WCAG checklist and the final audit.</p>
+
+
+
 
