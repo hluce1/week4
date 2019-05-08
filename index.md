@@ -121,5 +121,6 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 <h5> Other: </h5>
 *   As discussed with Ben, guideline 1.4.2 wasn't necessary.
 *   A complete audit for the target audience can be found here  [(external link)](https://hluce1.github.io/Front-end-Website-Project/audit/)
-
-<button> [Home](https://hluce1.github.io/Front-end-Website-Project/) </button> || [Rationale](https://hluce1.github.io/Front-end-Website-Project/rationale/)
+ 
+ <hr>
+[Home](https://hluce1.github.io/Front-end-Website-Project/) || [Rationale](https://hluce1.github.io/Front-end-Website-Project/rationale/)
