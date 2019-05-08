@@ -47,7 +47,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 <p align="justify">The last approach was to refine all usability and accessibility errors and implement fixes when they were needed. This was because the rounds of usability testing and accessibility testing showed where the site would need certain tweaks or changes. The usability testing was carried out through cognitive walkthroughs, to determine what tasks users would follow in order to use the site. While the accessibility tests came from the WCAG checklist and the final audit.</p>
 
-### [9] 2.4.3 Focus Order – Logical order
+### [Image 1] Wireframe
 
 ![Branching](https://user-images.githubusercontent.com/47615809/57297671-90d97b00-7113-11e9-9186-332ad2a3b857.jpg)
 
