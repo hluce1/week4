@@ -51,7 +51,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 <h2>Designs that inspired me:</h2>
 
-<h5> [Image 3]  [Image 1] [Image 2]</h5>
+<h5> [Image 3]  [Image 1] Wireframe [Image 2] Wireframe</h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297608-5c65bf00-7113-11e9-991d-869dab96a966.jpg)
 
 <h5> [Image 4] </h5>
