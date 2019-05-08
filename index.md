@@ -51,13 +51,13 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 <h2>Designs that inspired me:</h2>
 
-<h5> Image 3 </h5>
+<h5> [Image 3]  [Image 1] [Image 2]</h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297608-5c65bf00-7113-11e9-991d-869dab96a966.jpg)
 
-<h5> Image 4 </h5>
+<h5> [Image 4] </h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297603-55d74780-7113-11e9-8c25-f0c0ea24121e.jpg)
 
-<h5> Image 5 </h5>
+<h5> [Image 5] </h5>
 ![Branching](https://user-images.githubusercontent.com/47615809/57297622-62f43680-7113-11e9-98f3-c9d13b7a6eb9.jpg)
 
 
