@@ -83,7 +83,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 *	I also started utilising a different colour scheme instead of just white for the bottom content, taking inspiration from Icognitothemes (image 5) template. 
 
 <h5> [Image 6] Colour Palette </h5>
-![Branching](https://user-images.githubusercontent.com/47615809/57297593-4eb03980-7113-11e9-822d-9221f65f5d6d.jpg)
+![Branching](https://user-images.githubusercontent.com/47615809/57351058-dcd40080-71a3-11e9-8a53-bb4881f7184c.png)
 
 <h2> Challenges </h2>
 
