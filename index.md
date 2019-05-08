@@ -62,7 +62,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 
 <h2> Design Decisions </h2>
 
-<p align="justify">The site took inspiration from the above website designs and lead to the following design decisions: 
+<p>The site took inspiration from the above website designs and lead to the following design decisions: </p>
   
 * Making the main responsive content the Tocumwal stories section and the contact form. Using flex boxes and containers to create these sections. 
   
@@ -80,7 +80,7 @@ Druing the planning phases, the first [wireframe](https://user-images.githubuser
 *	I tried out using different colours, mainly blue, in order to meet more accessibility standards. However, after discussing with Ben, that specific guideline wasn’t necessary for this assessment. 
 
 *	I also started utilising a different colour scheme instead of just white for the bottom content, taking inspiration from Icognitothemes (image 5) template. 
-</p>
+
 
 
 
